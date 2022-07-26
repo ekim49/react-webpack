@@ -1,5 +1,12 @@
-# 리액트 웹앱 번들링
-📑 GitHub Pages 배포 링크: https://ekim49.github.io/react-webpack/
+# 😎 리액트로 웹앱 번들링하기
+> 📑 GitHub Pages 배포 링크: https://ekim49.github.io/react-webpack/
+<br/>
+
+## Documents & References
+<p>https://webpack.js.org/loaders/</p>
+<p>https://webpack.js.org/plugins/css-minimizer-webpack-plugin/</p>
+<p>https://webpack.js.org/plugins/mini-css-extract-plugin/</p>
+<p>https://stackoverflow.com/questions/42148632/conflict-multiple-assets-emit-to-the-same-filename (동적인 output 생성)</p>
 <br/>
 
 ## Bare Minimum Requirement
